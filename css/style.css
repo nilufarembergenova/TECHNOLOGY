@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  text-align: center;
+  gap: 30px;
+}
+
+.box_1 {
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 48x5px;
+  margin-top: 125px;
+
+  border-radius: 5px;
+}
+
+.box_2 {
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 485px;
+  margin-top: 125px;
+
+  border-radius: 5px;
+}
+
+.box_3 {
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 485px;
+  margin-top: 125px;
+
+  border-radius: 5px;
+}
+
+.car_img {
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.mountain_img {
+  width: 100%;
+  height: 38%;
+  padding-bottom: 20px;
+
+}
+
+.city_img {
+  width: 100%;
+  height: 38%;
+  padding-bottom: 20px;
+}
+
+.btn_1 {
+  padding: 5px 25px;
+  text-align: center;
+  display: flex;
+  justify-content: left;
+  border-radius: 40px;
+  background: rgb(51, 144, 186);
+  font-size: medium;
+  color: white;
+  border: none;
+
+}
+
+.btn_2 {
+  padding: 5px 25px;
+  text-align: center;
+  display: flex;
+  justify-content: left;
+  border-radius: 40px;
+  font-size: medium;
+  color: white;
+  border: none;
+  background: rgb(93, 42, 210);
+}
+
+.btn_3 {
+  padding: 5px 25px;
+  text-align: center;
+  display: flex;
+  justify-content: left;
+  border-radius: 40px;
+  font-size: medium;
+  color: white;
+  border: none;
+  background: rgb(215, 11, 103);
+}
+
+.title_1 {
+  font-size: medium;
+  text-align: initial;
+  display: flex;
+  justify-content: left;
+  font-weight: 700;
+  font-size: 19px;
+  padding-top: 20px;
+  color: black;
+
+}
+
+.title_2 {
+  font-size: medium;
+  text-align: initial;
+  display: flex;
+  justify-content: left;
+  font-weight: 700;
+  font-size: 17px;
+  padding-top: 20px;
+  color: black;
+
+}
+
+.title_3 {
+  font-size: medium;
+  display: flex;
+  justify-content: left;
+  font-weight: 700;
+  font-size: 19px;
+  padding-top: 20px;
+  text-align: initial;
+  color: black;
+}
+
+.text_1 {
+  font-size: 19px;
+  justify-content: left;
+  display: flex;
+  text-align: initial;
+  padding-top: 15px;
+  font-size: 14px;
+  padding-bottom: 105px;
+}
+
+.text_2 {
+  font-size: 19px;
+  justify-content: left;
+  display: flex;
+  text-align: initial;
+  padding-top: 15px;
+  font-size: 14px;
+  padding-bottom: 78px;
+}
+
+.text_3 {
+  font-size: 19px;
+  justify-content: left;
+  display: flex;
+  text-align: initial;
+  padding-top: 15px;
+  font-size: 14px;
+  padding-bottom: 116px;
+
+}
+
+.car_images {
+  width: 47px;
+  height: 47px;
+  border-radius: 50px;
+  justify-content: left;
+  display: flex;
+
+
+}
+
+.mountain_images {
+  width: 47px;
+  height: 47px;
+  border-radius: 50px;
+  justify-content: left;
+  display: flex;
+
+}
+
+.city_images {
+  width: 47px;
+  height: 47px;
+  border-radius: 50px;
+  justify-content: left;
+  display: flex;
+
+}
